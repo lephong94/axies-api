@@ -411,5 +411,17 @@
             "eth": 205.43
         }
     ],
-    "popularTag": ["Bitcoin", "NFT", "Bids", "Digital", "Arts", "Marketplace", "Token", "Wallet", "Crypto"]
+    "todayPicks": [
+    {
+        "id": 1,
+        "thumb": "https://axiesreact.surielementor.com/static/media/card-item-3.f5958cc952bce34d7810.jpg",
+        "title": "The RenaiXance Rising The Sun",
+        "likeCount": 100,
+        "creator": "SalvadorDali",
+        "creatorAvatar": "https://axiesreact.surielementor.com/static/media/avt-1.71a23be871d509a23d2d.jpg",
+        "tag": "BSC",
+        "currentBid": "4.89ETH"
+    }
+],
+ "popularTag": ["Bitcoin", "NFT", "Bids", "Digital", "Arts", "Marketplace", "Token", "Wallet", "Crypto"]
 }
