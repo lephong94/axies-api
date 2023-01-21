@@ -842,5 +842,63 @@
             ]
         }
     ],
+    "activity": [
+        {
+            "id": 1,
+            "thumb": "https://axiesreact.surielementor.com/static/media/imgactivity2.c954e184bd93e189ea43.jpg",
+            "name": "Pinky Ocean",
+            "following": "Gayle Hicks",
+            "date": "19th June, 2021"
+        },
+        {
+            "id": 2,
+            "thumb": "https://axiesreact.surielementor.com/static/media/image-box-21.dfc4bfc26b7449a3d88d.jpg",
+            "name": "Deep Sea Plan",
+            "following": "Deep Sea Plan",
+            "date": "10 minutes ago"
+        },
+        {
+            "id": 3,
+            "thumb": "https://axiesreact.surielementor.com/static/media/image-box-6.52d8a8ffbd8d4727e300.jpg",
+            "name": "Rainbow Style",
+            "following": "Gayle Hicks",
+            "date": "19th June, 2021"
+        },
+        {
+            "id": 4,
+            "thumb": "https://axiesreact.surielementor.com/static/media/card-item-7.7f4ad6d33deea16f00f9.jpg",
+            "name": "Rainbow Style",
+            "following": "Trista Francis",
+            "date": "10 minutes ago"
+        },
+        {
+            "id": 5,
+            "thumb": "https://axiesreact.surielementor.com/static/media/card-item-9.eee24c93e6039eff9c41.jpg",
+            "name": "I Believe I Can Fly",
+            "following": "Gayle Hicks",
+            "date": "19th June, 2021"
+        },
+        {
+            "id": 6,
+            "thumb": "https://axiesreact.surielementor.com/static/media/image-box-11.8bb5204cf47ba79610d0.jpg",
+            "name": "Cute Astronout",
+            "following": "Trista Francis",
+            "date": "05 minutes ago"
+        },
+        {
+            "id": 7,
+            "thumb": "https://axiesreact.surielementor.com/static/media/card-item-4.8b28f05584c4388a3162.jpg",
+            "name": "USA Wordmation",
+            "following": "Trista Francis",
+            "date": "10 minutes ago"
+        },
+        {
+            "id": 8,
+            "thumb": "https://axiesreact.surielementor.com/static/media/card-item-3.3.e6a8dbde92be56364a86.jpg",
+            "name": "Running Puppets",
+            "following": "Gayle Hicks",
+            "date": "10 minutes ago"
+        }
+    ],
  "popularTag": ["Bitcoin", "NFT", "Bids", "Digital", "Arts", "Marketplace", "Token", "Wallet", "Crypto"]
 }
